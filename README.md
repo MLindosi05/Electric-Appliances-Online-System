@@ -1,12 +1,12 @@
 
 ---
 
-## 2️⃣ Electric Appliances Online Booking System (`README.md`)
+## 2️⃣ Electric Appliances Online System (`README.md`)
 
 ```markdown
-# Electric Appliances Online Booking System
+# Electric Appliances Online System
 
-A Java-based system for managing online appliance bookings and customer orders.
+A Java-based system for managing online appliance and customer orders.
 
 ## Features
 - Browse appliance catalog
