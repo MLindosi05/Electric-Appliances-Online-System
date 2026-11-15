@@ -3,7 +3,6 @@
 
 ## 2️⃣ Electric Appliances Online System (`README.md`)
 
-```markdown
 # Electric Appliances Online System
 
 A Java-based system for managing online appliance and customer orders.
@@ -20,8 +19,8 @@ A Java-based system for managing online appliance and customer orders.
 - OOP principles
 
 ## How to Run
-1. Open the project in your IDE
+1. Open the project in your IDE(i.e Visual Studio)
 2. Compile and run the main Java file:
-```bash
+
 javac Main.java
 java Main
